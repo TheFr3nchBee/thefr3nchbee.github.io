@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welcome to my blog! 
-
 # Who I Am?
 
 My pseudo is **The French Bee**. I am a French cybersecurity engineer with over 5 years of experience in the field. I am passionate about all aspects of computer science.
@@ -44,5 +42,3 @@ Connect with me on:
 
 - **Email:** rushes.shade.0p@icloud.com
 - [Twitter](https://twitter.com/the_fr3nch_bee)
-
-Thank you for visiting my blog!
