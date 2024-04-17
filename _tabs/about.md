@@ -45,6 +45,4 @@ Connect with me on:
 - **Email:** rushes.shade.0p@icloud.com
 - [Twitter](https://twitter.com/the_fr3nch_bee)
 
----
-
 Thank you for visiting my blog!
