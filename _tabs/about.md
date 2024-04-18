@@ -4,9 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Who I Am?
+## Who I Am?
 
-My pseudo is **The French Bee**. I am a French cybersecurity engineer with over 5 years of experience in the field. I am passionate about all aspects of computer science.
+My pseudo is **The French Bee**. 
+
+I am a French cybersecurity engineer with over 5 years of experience in the field. 
+
+I am passionate about all aspects of computer science.
 
 I specialize in:
 
@@ -31,12 +35,7 @@ I specialize in:
   - Linux *(Ubuntu, Debian)*
   - Microsoft *(Windows 10, Windows 11, Windows Server 2022)*
 
-
-# What I Offer?
-
-On this blog, you will find a range of topics covering computer science including tutorials, articles and cheatsheets.
-
-# Connect With Me!
+## Connect With Me!
 
 Connect with me on:
 
